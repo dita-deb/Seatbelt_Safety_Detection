@@ -1,0 +1,2 @@
+Progress update has been really slow as i've taken time away from this project to work on a facial detection feature.
+I'll eventually get back to this as soon as time permits. 

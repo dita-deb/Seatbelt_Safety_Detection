@@ -1,2 +1,8 @@
-Progress update has been really slow as i've taken time away from this project to work on a facial detection feature.
+3/29/24
+Progress update has been really slow as I've taken time away from this project to work on a facial detection feature.
 I'll eventually get back to this as soon as time permits. 
+
+3/30/24
+I'll utilize a reference file for implementing the ML model on a USB camera attached to my Jetson Nano.
+Unfortunately, the Python version on my Jetson Nano is not high enough for me to use most ML Neural Network models because of the 
+implementation of weights and biases. I'll just have to work it out as much as possible.

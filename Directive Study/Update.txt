@@ -5,4 +5,8 @@ I'll eventually get back to this as soon as time permits.
 3/30/24
 I'll utilize a reference file for implementing the ML model on a USB camera attached to my Jetson Nano.
 Unfortunately, the Python version on my Jetson Nano is not high enough for me to use most ML Neural Network models because of the 
-implementation of weights and biases. I'll just have to work it out as much as possible.
+implementation of weights and biases. I'll have to work it out as much as possible.
+
+4/7/24
+I'll take the time to implement the two models into one this upcoming. I have a few models up on Jupyter Notebook that I'm still in
+the process of debugging. 
